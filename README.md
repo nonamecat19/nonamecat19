@@ -82,5 +82,22 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
-    </p>
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href="https://github.com/nonamecat19/nonamecat19">
+          <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nonamecat19&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true" alt="rak-maniak" style="max-width: 100%;">
+        </a>
+      </th>
+      <th>
+        <a href="https://github.com/nonamecat19/nonamecat19">
+          <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nonamecat19&amp;layout=compact&amp;theme=dracula&amp;hide_border=true" style="max-width: 100%;">
+        </a>
+      </th>
+      </tr>
+  </thead>
+</table>
 

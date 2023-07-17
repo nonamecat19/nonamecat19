@@ -10,6 +10,9 @@
 <p align="left">
 <b>Telegram:</b> <a href="https://t.me/NoNameCat">@NoNameCat</a></p>
 </p>
+<p align="left">
+<b>Instagram:</b> <a href="https://www.instagram.com/no.name.cat19/">@NoNameCat</a></p>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

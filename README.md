@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A passionate fullstack developer from Ukraine. Student of Zhytomyr Polytechnic State University</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<p align="left">
-<b>Gmail:</b> vt211_shov@student.ztu.edu.ua</p>
-<p align="left">
-<b>Phone:</b> +380673818543</p>
-<p align="left">
-<b>Telegram:</b> <a href="https://t.me/NoNameCat">@NoNameCat</a></p>
-</p>
-<p align="left">
-<b>Instagram:</b> <a href="https://www.instagram.com/no.name.cat19/">@no.name.cat19</a></p>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">A passionate fullstack developer from Ukraine. Student of Zhytomyr Polytechnic State University</h3>
+<h3 align="center">A passionate fullstack developer from Ukraine</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
